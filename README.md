@@ -12,7 +12,7 @@
 Ссылка на работающий проект:
 
 
-`https://booking-app-890j.onrender.com`
+`https://booking-app-890j.onrender.com/docs`
 
 
 ## Возможности

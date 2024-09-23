@@ -76,10 +76,10 @@ docker-compose up --build
 ```
 
 
-Приложение будет доступно по адресу: `http://localhost:7777`.
+## Приложение будет доступно по адресу: `http://localhost:7777`.
 
 
-## Flower для мониторинга Celery доступен по адресу: `http://localhost:5555`.
+Flower для мониторинга Celery доступен по адресу: `http://localhost:5555`.
 
 
 ## Тестирование
